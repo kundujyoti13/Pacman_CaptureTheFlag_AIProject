@@ -1,11 +1,7 @@
 # AI' -Project - Pacman Capture the Flag
 
 The purpose of this project is to implement a Pacman Autonomous Agent that can play and compete in the AI'2022   _Pacman Capture the Flag tournament_:
-
- <p align="center"> 
-    <img src="img/logo-capture_the_flag.png" alt="logo project 2" width="400">
-  
- </p>
+ 
  
 Note that the Pacman tournament has different rules as it is a game of two teams, where your Pacmans become ghosts in certain areas of the grid. Please read carefully the rules of the Pacman tournament. Understanding it well and designing a controller for it is part of the expectations for this project. Additional technical information on the contest project can be found in file [CONTEST.md](CONTEST.md). 
 
